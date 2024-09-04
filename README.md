@@ -1,2 +1,2 @@
 # BrookeVozzo03.github.io
-test 
+This is my COMP 208 teaching portfolio, assignment 1.
